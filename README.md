@@ -1,4 +1,4 @@
-#Titanic Survival Prediction Project: Unveiling the Power of Data Science 📊
+#  TASK 1 Titanic Survival Prediction Project: Unveiling the Power of Data Science 📊
 
 Excited to share the successful completion of my Titanic survival prediction project! 🌟 Leveraging the incredible potential of data science, I embarked on a journey to analyze and predict survival outcomes on the iconic Titanic voyage. 🚢
 
@@ -15,7 +15,7 @@ Key Highlights:
 🌐 Cross-Validation: Employed cross-validation techniques to validate the models, ensuring generalizability to new and unseen data.
 
 
-#Movie Rating Prediction Project: Unleashing the Power of Data Science with Python 📊
+# TASK 2 Movie Rating Prediction Project: Unleashing the Power of Data Science with Python 📊
 
 Thrilled to announce the successful completion of my latest project – Movie Rating Prediction using Python! 🌟 Dive into the captivating world of data science as I share insights into predicting movie ratings with cutting-edge techniques. 🎥
 
@@ -33,7 +33,7 @@ Project Highlights:
 
 
 
-#Iris Flower Classification Project: A Deep Dive into the Art of Data Science 📊
+# TASK 3 Iris Flower Classification Project: A Deep Dive into the Art of Data Science 📊
 
 Excited to share the successful completion of my latest project - Iris Flower Classification using Data Science! 🌸 Delve into the fascinating realm of data science as I unravel the mysteries of Iris flowers through cutting-edge classification techniques. 🌐
 
@@ -48,3 +48,4 @@ Project Highlights:
 🧠 Feature Importance: Unveiled the importance of different features in the classification process, gaining valuable insights into the characteristics that define each species.
 
 🌐 Cross-Validation Techniques: Applied robust cross-validation methods to validate the model's generalizability, ensuring reliability across various datasets.
+# TASK 4 
